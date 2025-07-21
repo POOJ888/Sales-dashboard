@@ -1,7 +1,7 @@
     
 # 📊 Sales Dashboard – Power BI
 
-**File:** `Sales dashboard (1).pbix`  
+**File:** `Sales dashboard.pbix`  
 **Tool Used:** Power BI Desktop  
 **Author:** Pooja VT  
 **Purpose:** Interactive sales analytics dashboard with dynamic KPIs controlled by user selection.
